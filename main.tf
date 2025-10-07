@@ -9,5 +9,3 @@ resource "aws_instance" "this" {
     }
   )
 }
-backend.tf
-.gitignore
